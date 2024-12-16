@@ -171,7 +171,7 @@
 			<plugin>
 				<groupId>org.flywaydb</groupId>
 				<artifactId>flyway-maven-plugin</artifactId>
-				<version>11.0.0</version>
+				<version>11.1.0</version>
 				<configuration>
 					<configFiles>
 						<configFile>
@@ -185,7 +185,7 @@
 					<dependency>
 						<groupId>org.flywaydb</groupId>
 						<artifactId>flyway-database-postgresql</artifactId>
-						<version>11.0.0</version>
+						<version>11.1.0</version>
 						<scope>runtime</scope>
 					</dependency>
 				</dependencies>
